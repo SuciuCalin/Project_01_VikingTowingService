@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/nav_drawer_title">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/nav_address"
+                    android:icon="@drawable/ic_directions_black_24dp"
+                    android:title="@string/first_info" />
+
+                <item
+                    android:id="@+id/nav_email"
+                    android:icon="@drawable/ic_email_black_24dp"
+                    android:title="@string/second_info" />
+
+                <item
+                    android:id="@+id/nav_phone"
+                    android:icon="@drawable/ic_call_black_24dp"
+                    android:title="@string/third_info" />
+
+                <item
+                    android:id="@+id/nav_http"
+                    android:icon="@android:drawable/ic_menu_view"
+                    android:title="@string/fourth_info" />
+            </group>
+        </menu>
+    </item>
+</menu>
+

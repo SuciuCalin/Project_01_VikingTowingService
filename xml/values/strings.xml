@@ -1,0 +1,20 @@
+<resources>
+
+    <!--app name string-->
+    <string name="app_name">Viking Tractari Auto</string>
+
+    <!--business hours string-->
+    <string name="business_hours">OPEN 24/7</string>
+    
+    <!--strings from the navigation drawer-->
+    <string name="nav_drawer_title">Contact Information</string>
+    <string name="first_info">Aurel Vlaicu, Arad</string>
+    <string name="second_info">Email</string>
+    <string name="third_info">Phone</string>
+    <string name="fourth_info">Facebook</string>
+
+    <!--navigation drawer open/close from activity main-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
