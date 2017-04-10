@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/NavigationTheme">
+
     <item android:title="@string/nav_drawer_title">
         <menu>
             <group android:checkableBehavior="none">
                 <item
                     android:id="@+id/nav_address"
                     android:icon="@drawable/ic_directions_black_24dp"
-                    android:title="@string/first_info" />
+                    android:title="@string/first_info"/>
 
                 <item
                     android:id="@+id/nav_email"

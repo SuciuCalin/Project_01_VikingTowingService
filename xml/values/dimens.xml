@@ -4,7 +4,13 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <dimen name="nav_header_height">160dp</dimen>
-    <dimen name="main_content_margin">4dp</dimen>
+
+    <!--main content margins-->
+    <dimen name="main_content_margin_LeftAndRight">16dp</dimen>
+    <dimen name="main_content_margin_TopAndBottom">8dp</dimen>
+
+    <!--main content view pager bottom margin-->
+    <dimen name="view_pager_margin_Bottom">8dp</dimen>
 
     <!--floating button margin-->
     <dimen name="fab_margin">16dp</dimen>
@@ -15,5 +21,9 @@
 
     <!--navigation menu header text-->
     <dimen name="nav_menu_text">22sp</dimen>
+
+    <!--navigation menu margins-->
+    <dimen name="nav_menu_marginRight">16dp</dimen>
+    <dimen name="nav_menu_marginLeft">16dp</dimen>
 
 </resources>

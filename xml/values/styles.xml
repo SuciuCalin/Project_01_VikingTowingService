@@ -32,4 +32,19 @@
         <item name ="android:shadowRadius">50</item>
     </style>
 
+    <!--Style of the navigation menu-->
+    <style name="NavigationTheme" parent="AppTheme">
+        <item name="android:layout_marginRight">@dimen/nav_menu_marginRight</item>
+        <item name="android:layout_marginLeft">@dimen/nav_menu_marginLeft</item>
+    </style>
+
+    <!--Style of the main content margins-->
+    <style name="MainContent">
+        <item name="android:layout_marginLeft">@dimen/main_content_margin_LeftAndRight</item>
+        <item name="android:layout_marginRight">@dimen/main_content_margin_LeftAndRight</item>
+        <item name="android:layout_marginTop">@dimen/main_content_margin_TopAndBottom</item>
+        <item name="android:layout_marginBottom">@dimen/main_content_margin_TopAndBottom</item>
+    </style>
+
+
 </resources>

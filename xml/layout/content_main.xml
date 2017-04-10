@@ -10,14 +10,15 @@
     tools:context="com.example.android.vikingtowingservice.MainActivity"
     tools:showIn="@layout/app_bar_main"
     android:orientation="vertical"
-    android:layout_margin="@dimen/main_content_margin">
+    style="@style/MainContent">
 
     <android.support.v4.view.ViewPager
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/pager"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1">
+        android:layout_weight="1"
+        android:layout_marginBottom="@dimen/view_pager_margin_Bottom">
     </android.support.v4.view.ViewPager>
 
     <ListView
