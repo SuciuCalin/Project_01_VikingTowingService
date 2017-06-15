@@ -1,25 +1,37 @@
 # Build a Single Screen App
-<b>Project Overview</b>
+<h2>Project Overview:</h2>
 
 Design and implement a single screen app that displays information about a fictional small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
 
-<b>Requirements</b>
+<h3>Requirements</h3>
 
-Your design must include:
 <ul>
-<li>Business name</li>
-<li>At least one photo representing the business</li>
-<li>Two or more other pieces of information, such as:</li>
-<ul>
-<li>Contact information for the business (eg phone number, email address, website)</li>
-<li>Address of the Business</li>
-<li>Description of business</li>
-<li>Hours of operation</li>
-</ul>
+<li><b>Your design must include:</b></li>
+	<ul>
+	<li>Business name</li>
+	<li>At least one photo representing the business</li>
+	<li>Two or more other pieces of information, such as:</li>
+		<ul>
+		<li>Contact information for the business (eg phone number, email address, website)</li>
+		<li>Address of the Business</li>
+		<li>Description of business</li>
+		<li>Hours of operation</li>
+	</ul></ul>
+<p></p>
+
+<li><b>Program must function in Android Studio emulator and on a phone. Upon launching on a phone, the card appears.</b></li>
+<p></p>
+<li><b>Layout scales responsively for screen sizes in portrait mode, with no part of any images only partially visible. Student is not responsible for responsive design in landscape mode.</li></b>
+<p></p>
+<li><b>XML must include a Relative Layout and/or a Linear Layout</li></b>
+<p></p>
+<li><b>Must have one or more image views or text views.</li></b>
+<p></p>
+<li><b>Elements are specified in dp, text is specified in sp.</li></b>
 </ul>
 
-
-Screenshots:
+<p></p>
+<h2>Screenshots:</h2>
 
 ![1](https://cloud.githubusercontent.com/assets/27139870/25782523/831ac80a-3355-11e7-81f8-697576893b1a.png)
 ![2](https://cloud.githubusercontent.com/assets/27139870/25782524/831da84a-3355-11e7-912f-5b121a0ffdb6.png)
