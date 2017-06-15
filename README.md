@@ -30,7 +30,7 @@ Design and implement a single screen app that displays information about a ficti
 <li><b>Elements are specified in dp, text is specified in sp.</li></b>
 </ul>
 
-<p></p>
+<h2></h2>
 <h2>Screenshots:</h2>
 
 ![1](https://cloud.githubusercontent.com/assets/27139870/25782523/831ac80a-3355-11e7-81f8-697576893b1a.png)
