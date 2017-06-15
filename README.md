@@ -29,6 +29,7 @@ Design and implement a single screen app that displays information about a ficti
 <p></p>
 <li><b>Elements are specified in dp, text is specified in sp.</li></b>
 </ul>
+<br>
 
 # Viking Towing Service
 <h2>Screenshots:</h2>
