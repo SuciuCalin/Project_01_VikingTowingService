@@ -1,5 +1,23 @@
-# viking
-java and xml
+# Build a Single Screen App
+<b>Project Overview</b>
+
+Design and implement a single screen app that displays information about a fictional small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
+
+<b>Requirements</b>
+
+Your design must include:
+<ul>
+<li>Business name</li>
+<li>At least one photo representing the business</li>
+<li>Two or more other pieces of information, such as:</li>
+<ul>
+<li>Contact information for the business (eg phone number, email address, website)</li>
+<li>Address of the Business</li>
+<li>Description of business</li>
+<li>Hours of operation</li>
+</ul>
+</ul>
+
 
 Screenshots:
 
